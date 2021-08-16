@@ -7,9 +7,8 @@
 2021/8/16 14:30   SeafyLiang   1.0       03pytorch实现神经网络模型
 """
 import torch
-import torch.nn as nn
-import torch.optim as optim
-
+from torch import nn
+from torch import optim
 """
 来源：【小白学习PyTorch教程】三、Pytorch中的NN模块并实现第一个神经网络模型
 https://mp.weixin.qq.com/s?__biz=MzU2ODU3ODY0Nw==&mid=2247489240&idx=1&sn=31c2b46b3119220031a72c367b24e6ff&chksm=fc8a91e0cbfd18f62f956bd14d23385bdff0dbc933d5a9898923b7404b1c374991af0cf4f5ca&scene=178&cur_album_id=1904059205397839873#rd

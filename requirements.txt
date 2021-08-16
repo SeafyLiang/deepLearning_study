@@ -84,3 +84,5 @@ XlsxWriter==1.4.3
 xlwt==1.3.0
 yarg==0.1.9
 zipp==3.5.0
+
+torchvision==0.8.0
